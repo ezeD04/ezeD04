@@ -18,7 +18,7 @@ Apasionado por la investigación y el análisis de datos, con especial interés 
 - **R** (análisis estadístico, inferencia, visualización de datos)
 - **Python** (automatización, análisis de datos)
 - Inferencia estadística
-- Predicción y modelado de datos
+- análisis y modelado de datos
 
 ---
 
