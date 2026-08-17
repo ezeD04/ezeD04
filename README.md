@@ -26,7 +26,7 @@ Apasionado por la investigación y el análisis de datos, con especial interés 
 
 - Clusters para votante mediano en DataFrame simulado  
 
-- Bot para finanzas cuantitativas
+- Econometría causal aplicada
 
 - Completar datos NA con regresiones
 
