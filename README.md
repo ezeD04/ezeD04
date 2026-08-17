@@ -44,7 +44,7 @@ Apasionado por la investigación y el análisis de datos, con especial interés 
 
 ## 📫 ¿Querés contactarme?
 
-[LinkedIn] https://https://www.linkedin.com/in/ezequiel-d-ippolito-565487293
+[LinkedIn] https://www.linkedin.com/in/ezequiel-d-ippolito-565487293
 
 ---
 
